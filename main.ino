@@ -3,6 +3,8 @@
  * Author:    manintheit
  * Created:   10.01.2019
  * https://github.com/esp8266/Arduino
+ * http://arduino.esp8266.com/stable/package_esp8266com_index.json
+ * Board Model: NodeMCU 1.0(ESP-12E MODULE)
  **/
 
 
