@@ -1,5 +1,5 @@
-What is ESP8266?
-The Chips
+# What is ESP8266 ?
+
 The ESP8266 series, or family, of Wi-Fi chips is produced by Espressif Systems, 
 a fabless semiconductor company operating out of Shanghai, China.
 The ESP8266 series presently includes the ESP8266EX and ESP8285 chips.
@@ -22,11 +22,13 @@ The silicon chip itself is housed within a 5 mm × 5 mm Quad Flat No-Leads packa
 
 For this project only D7 pin has been used.
 
-Sample Usage:
+# Sample Usage:
+
 -------------------------------------
 http://192.168.1.110/pin7/off
 http://192.168.1.110/pin7/on
 
-For help:
+# For help:
 ------------------
 http://192.168.1.110
+
