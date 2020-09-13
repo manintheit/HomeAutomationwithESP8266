@@ -25,7 +25,7 @@ For this project only D7 pin has been used.
 # Sample Usage:
 
 -------------------------------------
-http://192.168.1.110/pin7/off
+http://192.168.1.110/pin7/off </br>
 http://192.168.1.110/pin7/on
 
 # For help:
